@@ -1,1 +1,2 @@
-print("Hola desde fab-scripts")
+nombre = input("Ingrese su nombre: ")
+print(f"Hola, {nombre}. Bienvenido a fab-scripts")
