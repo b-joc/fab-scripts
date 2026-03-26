@@ -18,5 +18,4 @@ Colección de scripts para automatizar tareas simples relacionadas con pruebas y
 python saludo.py
 
 ## Requisitos
-
 - Python 3.10 o superior
